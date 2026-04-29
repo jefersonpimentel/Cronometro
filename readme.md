@@ -1,7 +1,7 @@
 # ⏱️ Cronômetro
 
 ## 🔗 Demo
-
+https://jefersonpimentel.github.io/Cronometro/
 
 ## 📌 Descrição
 Cronômetro com iniciar, pausar e resetar.
@@ -23,8 +23,3 @@ Cronômetro com iniciar, pausar e resetar.
 - Bug de múltiplos intervalos
 - Formatação correta do tempo
 - Controle de execução
-
-## 📈 Próximos passos
-- Adicionar milissegundos
-- Voltas (laps)
-- Design mais avançado
