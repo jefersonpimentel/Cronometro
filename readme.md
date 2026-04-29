@@ -23,8 +23,3 @@ Cronômetro com iniciar, pausar e resetar.
 - Bug de múltiplos intervalos
 - Formatação correta do tempo
 - Controle de execução
-
-## 📈 Próximos passos
-- Adicionar milissegundos
-- Voltas (laps)
-- Design mais avançado
