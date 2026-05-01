@@ -1,7 +1,7 @@
 # ⏱️ Cronômetro
 
-## 🔗 Demo
-https://jefersonpimentel.github.io/Cronometro/
+## 🔗 Live Demo
+https://jefersonpimentel.github.io/cronometro/
 
 ## 📌 Descrição
 Cronômetro com iniciar, pausar e resetar.
